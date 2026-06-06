@@ -27,6 +27,7 @@ import it.unimi.dsi.fastutil.ints.IntIntPair;
 import me.mrCookieSlime.Slimefun.api.inventory.BlockMenu;
 import me.mrCookieSlime.Slimefun.api.inventory.BlockMenuPreset;
 
+@SuppressWarnings("deprecation")
 public class TechnologicalSalvager extends AbstractMachineBlock implements MachineProcessHolder<CraftingOperation> {
 
     private static final int[] BACKGROUND = new int[] { 0, 1, 2, 3, 4, 13, 31, 36, 37, 38, 39, 40 };

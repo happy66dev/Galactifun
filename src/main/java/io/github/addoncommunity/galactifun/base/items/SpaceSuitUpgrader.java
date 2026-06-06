@@ -17,6 +17,7 @@ import me.mrCookieSlime.Slimefun.Objects.SlimefunItem.abstractItems.AContainer;
 import me.mrCookieSlime.Slimefun.Objects.SlimefunItem.abstractItems.MachineRecipe;
 import me.mrCookieSlime.Slimefun.api.inventory.BlockMenu;
 
+@SuppressWarnings("deprecation")
 public final class SpaceSuitUpgrader extends AContainer {
 
     public SpaceSuitUpgrader(ItemGroup category, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {

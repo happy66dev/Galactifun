@@ -49,6 +49,7 @@ import net.kyori.adventure.text.event.ClickEvent;
 import net.kyori.adventure.text.format.NamedTextColor;
 
 // TODO clean up if possible
+@SuppressWarnings("deprecation")
 public final class StargateController extends SlimefunItem implements Listener {
 
     private static final int[] BACKGROUND = new int[] { 1, 2, 6, 7, 8 };

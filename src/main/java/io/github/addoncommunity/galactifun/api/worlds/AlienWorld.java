@@ -49,6 +49,7 @@ import me.mrCookieSlime.Slimefun.api.BlockStorage;
  * @author Mooy1
  * @see EarthOrbit
  */
+@SuppressWarnings("deprecation")
 public abstract class AlienWorld extends PlanetaryWorld {
 
     public static final NamespacedKey CHUNK_VER_KEY = Galactifun.createKey("chunk_version");

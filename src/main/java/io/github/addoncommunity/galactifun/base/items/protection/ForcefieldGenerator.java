@@ -28,6 +28,7 @@ import io.github.thebusybiscuit.slimefun4.core.networks.energy.EnergyNetComponen
 import me.mrCookieSlime.CSCoreLibPlugin.Configuration.Config;
 import me.mrCookieSlime.Slimefun.Objects.handlers.BlockTicker;
 
+@SuppressWarnings("deprecation")
 public final class ForcefieldGenerator extends SlimefunItem implements EnergyNetComponent {
 
     private static final String ACTIVE = "active";

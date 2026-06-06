@@ -18,6 +18,7 @@ import io.github.mooy1.infinitylib.common.Scheduler;
 import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItemStack;
 import me.mrCookieSlime.Slimefun.api.BlockStorage;
 
+@SuppressWarnings("deprecation")
 @AllArgsConstructor
 public class FallenSatellitePopulator extends BlockPopulator {
 

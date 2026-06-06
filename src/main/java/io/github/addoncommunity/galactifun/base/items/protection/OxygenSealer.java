@@ -35,6 +35,7 @@ import me.mrCookieSlime.Slimefun.api.BlockStorage;
 import me.mrCookieSlime.Slimefun.api.inventory.BlockMenu;
 import me.mrCookieSlime.Slimefun.api.inventory.BlockMenuPreset;
 
+@SuppressWarnings("deprecation")
 public final class OxygenSealer extends MenuBlock implements EnergyNetComponent, HologramOwner {
 
     private static final String PROTECTING = "oxygenating";

@@ -13,6 +13,7 @@ import io.github.thebusybiscuit.slimefun4.implementation.SlimefunItems;
 import io.github.thebusybiscuit.slimefun4.implementation.items.electric.reactors.Reactor;
 import me.mrCookieSlime.Slimefun.Objects.SlimefunItem.abstractItems.MachineFuel;
 
+@SuppressWarnings("deprecation")
 public final class FusionReactor extends Reactor {
 
     public FusionReactor(SlimefunItemStack item, ItemStack[] recipe) {

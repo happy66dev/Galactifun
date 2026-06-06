@@ -20,6 +20,7 @@ import me.mrCookieSlime.Slimefun.Objects.SlimefunItem.abstractItems.AContainer;
 import me.mrCookieSlime.Slimefun.api.BlockStorage;
 import me.mrCookieSlime.Slimefun.api.inventory.BlockMenu;
 
+@SuppressWarnings("deprecation")
 public final class OxygenFiller extends AContainer {
 
     public OxygenFiller(ItemGroup category, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {

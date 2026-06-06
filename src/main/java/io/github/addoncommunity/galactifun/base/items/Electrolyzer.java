@@ -14,6 +14,7 @@ import io.github.thebusybiscuit.slimefun4.api.recipes.RecipeType;
 import io.github.thebusybiscuit.slimefun4.implementation.SlimefunItems;
 import me.mrCookieSlime.Slimefun.Objects.SlimefunItem.abstractItems.AContainer;
 
+@SuppressWarnings("deprecation")
 public class Electrolyzer extends AContainer {
 
     public Electrolyzer(SlimefunItemStack item, ItemStack[] recipe) {

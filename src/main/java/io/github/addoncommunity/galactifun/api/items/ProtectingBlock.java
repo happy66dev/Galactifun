@@ -39,6 +39,7 @@ import me.mrCookieSlime.Slimefun.api.BlockStorage;
 import me.mrCookieSlime.Slimefun.api.inventory.BlockMenu;
 import me.mrCookieSlime.Slimefun.api.inventory.BlockMenuPreset;
 
+@SuppressWarnings("deprecation")
 public abstract class ProtectingBlock extends MenuBlock implements EnergyNetComponent, HologramOwner {
 
     protected static final String PROTECTING = "protecting";

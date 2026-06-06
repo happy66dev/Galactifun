@@ -16,7 +16,7 @@ repositories {
 dependencies {
     api("io.github.mooy1:InfinityLib:1.3.7")
     compileOnly("io.papermc.paper:paper-api:1.18.2-R0.1-SNAPSHOT")
-    compileOnly("com.github.StarWishsama:Slimefun4:2024.3")
+    compileOnly("com.github.happy66dev:Slimefun4:happy-SNAPSHOT")
     compileOnly("com.google.code.findbugs:jsr305:3.0.2")
     compileOnly("net.guizhanss:GuizhanLibPlugin:1.7.6")
 
@@ -57,7 +57,7 @@ bukkit {
 
 tasks.runServer {
     downloadPlugins {
-        url("https://blob.build/dl/Slimefun4/Dev/1116")
+        url("https://github.com/happy66dev/Slimefun4/releases/latest")
     }
     maxHeapSize = "4G"
     minecraftVersion("1.20.4")

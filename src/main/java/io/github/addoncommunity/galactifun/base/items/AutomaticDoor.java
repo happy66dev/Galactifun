@@ -36,6 +36,7 @@ import me.mrCookieSlime.Slimefun.api.inventory.BlockMenuPreset;
 
 import static io.github.mooy1.infinitylib.core.AbstractAddon.log;
 
+@SuppressWarnings("deprecation")
 public final class AutomaticDoor extends MenuBlock {
 
     private static final int[] BACKGROUND = new int[] { 0, 1, 2, 3, 5, 6, 7, 8 };

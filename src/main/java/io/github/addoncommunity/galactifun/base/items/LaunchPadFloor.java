@@ -18,6 +18,7 @@ import io.github.thebusybiscuit.slimefun4.api.recipes.RecipeType;
 import io.github.thebusybiscuit.slimefun4.core.handlers.BlockBreakHandler;
 import me.mrCookieSlime.Slimefun.api.BlockStorage;
 
+@SuppressWarnings("deprecation")
 public final class LaunchPadFloor extends SlimefunItem {
 
     public LaunchPadFloor(ItemGroup category, SlimefunItemStack itemStack, RecipeType type, ItemStack[] recipe) {

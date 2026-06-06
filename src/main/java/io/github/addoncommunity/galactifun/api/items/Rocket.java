@@ -67,6 +67,7 @@ import me.mrCookieSlime.Slimefun.api.BlockStorage;
 import net.kyori.adventure.text.Component;
 import net.kyori.adventure.text.format.NamedTextColor;
 
+@SuppressWarnings("deprecation")
 public abstract class Rocket extends SlimefunItem implements RecipeDisplayItem {
 
     public static final NamespacedKey CARGO_KEY = Galactifun.createKey("cargo");

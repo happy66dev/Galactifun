@@ -34,6 +34,7 @@ import net.kyori.adventure.text.format.NamedTextColor;
  * @author Mooy1
  * @author Seggan
  */
+@SuppressWarnings("deprecation")
 public final class WorldSelector {
 
     private static final int MAX_OBJECTS_PER_PAGE = 52;

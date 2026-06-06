@@ -18,6 +18,7 @@ import me.mrCookieSlime.Slimefun.api.BlockStorage;
 /**
  * Class that uses {@link BlockPosition}s to store boolean tags on blocks. To be used instead of {@link BlockStorage}
  */
+@SuppressWarnings("deprecation")
 public final class ChunkStorage {
 
     private static final BlockPositionsDataType DATA_TYPE = new BlockPositionsDataType();

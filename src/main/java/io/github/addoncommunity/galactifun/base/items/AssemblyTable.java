@@ -27,6 +27,7 @@ import io.github.thebusybiscuit.slimefun4.utils.ChestMenuUtils;
 import me.mrCookieSlime.Slimefun.api.inventory.BlockMenu;
 import me.mrCookieSlime.Slimefun.api.inventory.BlockMenuPreset;
 
+@SuppressWarnings("deprecation")
 @ParametersAreNonnullByDefault
 public final class AssemblyTable extends CraftingBlock implements EnergyNetComponent {
 
