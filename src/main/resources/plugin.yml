@@ -1,0 +1,13 @@
+name: Galactifun
+main: io.github.addoncommunity.galactifun.Galactifun
+version: MODIFIED
+api-version: "1.18"
+authors: [Seggan, Mooy1, GallowsDove, ProfElements]
+depend: [Slimefun]
+softdepend: [ClayTech, GuizhanLibPlugin, BentoBox]
+loadbefore: [Multiverse-Core]
+commands:
+  galactifun:
+    description: Galactifun main command
+    usage: /galactifun <subcommand>
+    aliases: [gf, galactic]

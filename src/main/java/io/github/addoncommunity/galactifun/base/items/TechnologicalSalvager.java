@@ -127,4 +127,9 @@ public class TechnologicalSalvager extends AbstractMachineBlock implements Machi
         return processor;
     }
 
+    @Override
+    public Class<CraftingOperation> getMachineOperationClass() {
+        return CraftingOperation.class;
+    }
+
 }
