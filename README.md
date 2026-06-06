@@ -1,4 +1,4 @@
-# Galactifun-星际
+# Galactifun-星际 [魔改版]
 
 Slimefun-Addon-Galactifun里面加入了星系,恒星系统,行星,卫星,火箭和宇航服.
 它有一个强大的开发API.
@@ -15,3 +15,7 @@ Slimefun-Addon-Galactifun里面加入了星系,恒星系统,行星,卫星,火箭
 Galactifun 国外社区:
 
 https://discord.gg/SqD3gg5SAU
+
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=happy66dev/Galactifun&type=Date)](https://star-history.com/#happy66dev/Galactifun&Date)
